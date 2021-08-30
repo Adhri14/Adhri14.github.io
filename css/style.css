@@ -23,7 +23,7 @@ body {
 }
 
 .nav-link:hover {
-  color: #276afb !important;
+  color: #f00946 !important;
 }
 
 .btn-custom {
@@ -272,7 +272,7 @@ body {
 }
 
 .link a:hover {
-  color: #276afb;
+  color: #f00946;
 }
 
 /* Desktop */
@@ -311,6 +311,7 @@ body {
 
   .hero-title {
     font-size: 36px;
+    color: #f00946;
   }
 
   .hero-desc {
